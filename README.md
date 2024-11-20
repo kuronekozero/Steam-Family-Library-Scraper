@@ -1,4 +1,4 @@
-# Steam Game Scraper Script
+# Steam Game Scraper 
 
 This script automatically scrapes the names of all games from your Steam library, including family-shared games. Once the scraping process is complete, the script will save the game names to a `.txt` file and download it.
 
