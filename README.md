@@ -1,5 +1,7 @@
 # Steam Game Scraper 
 
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-yellow?style=flat-square)](https://www.buymeacoffee.com/kur0)  
+
 This script automatically scrapes the names of all games from your Steam library, including family-shared games. Once the scraping process is complete, the script will save the game names to a `.txt` file and download it.
 
 ---
